@@ -1,0 +1,3 @@
+[submodule "quark-client"]
+	path = quark-client
+	url = https://github.com/pncln/quark-client
